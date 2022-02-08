@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'card1.dart';
 import 'card2.dart';
 import 'card3.dart';
+import 'screens/explore_screen.dart';
+import 'screens/recipes_screen.dart';
 
 // 1
 class Home extends StatefulWidget {
