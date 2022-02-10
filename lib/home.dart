@@ -4,6 +4,9 @@ import 'card2.dart';
 import 'card3.dart';
 import 'screens/explore_screen.dart';
 import 'screens/recipes_screen.dart';
+import 'screens/grocery_screen.dart';
+import 'package:provider/provider.dart';
+import 'models/models.dart';
 
 // 1
 class Home extends StatefulWidget {
